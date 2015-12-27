@@ -4,7 +4,7 @@ package com.java.design.patterns;
  * 	A MallardDuck uses the Quack Class to handle its quack, so when performQuack() is called, the responsiblity
  * for quack is delegated to the Quack Object and we get a real quack.
  * 
- * 
+ * 	And it uses FlyWithWings as its FlyBehavior Type
  * 
  * 
  * @author astamilmani
